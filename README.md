@@ -2,6 +2,8 @@
 
 This repository provides the official implementation of **MSCC**
 
+The benchmark evaluation code we use is based on the "The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark" evaluation framework system.
+
 ---
 
 ## 📦 Dataset Setup
